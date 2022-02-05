@@ -6,32 +6,429 @@ uid: 38882bf9-9e24-e340-6c7d-81aa8abc2ec4
 
 Lecturers: TIE=Tim Eglinton; DJR=Dan Repeta; BVM=Ben Van Mooy; CMR=Chris Reddy.
 
-| SES # | TOPICS | LECTURERS | KEY DATES |
-| --- | --- | --- | --- |
-| 1 | Organic Geochemistry Methods I | TIE | Problem set 1 out |
-| 2 | Organic Geochemistry Methods II | TIE | &nbsp; |
-| 3 | DOC, DON, DOP Cycling and Composition | DJR | &nbsp; |
-| 4 | DOC, DON, DOP Cycling and Composition (cont.) | DJR | &nbsp; |
-| 5 | DOC, DON, DOP Cycling and Composition (cont.) | DJR | &nbsp; |
-| 6 | DOC, DON, DOP Cycling and Composition (cont.) | DJR | &nbsp; |
-| 7 | Introduction to Molecular Markers | TIE | &nbsp; |
-| 8 | Carbon Isotopes | TIE | &nbsp; |
-| 9 | Carbon Preservation | DJR | Deadline for selection of proposal topics |
-| 10 | Carbon Preservation II | DJR | &nbsp; |
-| 11 | Student Prop Presentation (Initial) | TIE/DJR | Problem set 2 out |
-| 12 | Particulate Organic Carbon Cycling | DJR | &nbsp; |
-| 13 | Particles, Cape Lookout Bight | DJR | Students meet with instructors re-proposals |
-| 14 | Terrestrial Organic Carbon Inputs to Marine Sediments | TIE | &nbsp; |
-| 15 | Terrestrial Organic Carbon Inputs to Marine Sediments II | TIE | &nbsp; |
-| 16 | Molecular Markers as Tools | TIE | &nbsp; |
-| 17 | Radiocarbon in Organic Materials | TIE | &nbsp; |
-| 18 | Biogeochemical Cycling in Anoxic Marine Sediments I | DJR | &nbsp; |
-| 19 | Biogeochemical Cycling in Anoxic Marine Sediments II | DJR | &nbsp; |
-| 20 | Organic Phosphorus | BVM | &nbsp; |
-| 21 | Old Carbon in the Modern Marine Environment | TIE | &nbsp; |
-| 22 | Introduction to Organic Chemicals of Environmental Concern, Chemical and Physical Properties of Contaminants | CMR | Problem set 1 due |
-| 23 | Fate of Organic Matter Over Geologic Time | TIE | &nbsp; |
-| 24 | Course Review | TIE/DJR | &nbsp; |
-| 25 | Student Presentations | TIE/DJR | &nbsp; |
-| 26 | Student Presentations (cont.) | TIE/DJR | Problem set 2 due |
-| &nbsp; | Final Exam | &nbsp; |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURERS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Organic Geochemistry Methods I
+{{< tdclose >}}
+{{< tdopen >}}
+TIE
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Organic Geochemistry Methods II
+{{< tdclose >}}
+{{< tdopen >}}
+TIE
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+DOC, DON, DOP Cycling and Composition
+{{< tdclose >}}
+{{< tdopen >}}
+DJR
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+DOC, DON, DOP Cycling and Composition (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+DJR
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+DOC, DON, DOP Cycling and Composition (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+DJR
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+DOC, DON, DOP Cycling and Composition (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+DJR
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Molecular Markers
+{{< tdclose >}}
+{{< tdopen >}}
+TIE
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Carbon Isotopes
+{{< tdclose >}}
+{{< tdopen >}}
+TIE
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Carbon Preservation
+{{< tdclose >}}
+{{< tdopen >}}
+DJR
+{{< tdclose >}}
+{{< tdopen >}}
+Deadline for selection of proposal topics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Carbon Preservation II
+{{< tdclose >}}
+{{< tdopen >}}
+DJR
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Student Prop Presentation (Initial)
+{{< tdclose >}}
+{{< tdopen >}}
+TIE/DJR
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Particulate Organic Carbon Cycling
+{{< tdclose >}}
+{{< tdopen >}}
+DJR
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Particles, Cape Lookout Bight
+{{< tdclose >}}
+{{< tdopen >}}
+DJR
+{{< tdclose >}}
+{{< tdopen >}}
+Students meet with instructors re-proposals
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Terrestrial Organic Carbon Inputs to Marine Sediments
+{{< tdclose >}}
+{{< tdopen >}}
+TIE
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Terrestrial Organic Carbon Inputs to Marine Sediments II
+{{< tdclose >}}
+{{< tdopen >}}
+TIE
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular Markers as Tools
+{{< tdclose >}}
+{{< tdopen >}}
+TIE
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Radiocarbon in Organic Materials
+{{< tdclose >}}
+{{< tdopen >}}
+TIE
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Biogeochemical Cycling in Anoxic Marine Sediments I
+{{< tdclose >}}
+{{< tdopen >}}
+DJR
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Biogeochemical Cycling in Anoxic Marine Sediments II
+{{< tdclose >}}
+{{< tdopen >}}
+DJR
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Organic Phosphorus
+{{< tdclose >}}
+{{< tdopen >}}
+BVM
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Old Carbon in the Modern Marine Environment
+{{< tdclose >}}
+{{< tdopen >}}
+TIE
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Organic Chemicals of Environmental Concern, Chemical and Physical Properties of Contaminants
+{{< tdclose >}}
+{{< tdopen >}}
+CMR
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Fate of Organic Matter Over Geologic Time
+{{< tdclose >}}
+{{< tdopen >}}
+TIE
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Course Review
+{{< tdclose >}}
+{{< tdopen >}}
+TIE/DJR
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+TIE/DJR
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+TIE/DJR
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
